@@ -13,20 +13,6 @@ Basado en Blocktopograph de Proto Lambda y colaboradores (AGPL-3.0).
 
 By *Proto Lambda*\(Link removed, as he asked to\), [@MithrilMania](https://github.com/MithrilMania),
 [@flagmaggot](https://github.com/flagmaggot) and many other community contributors, including translation.  
-This fork is the only one supporting MCPE 1.13+ for now.
-
-## Redirection
-Update is currently paused due to several difficulties (including sections below). The current active fork is now https://github.com/NguyenDuck/blocktopograph
-
-Translations and pull requests are encouraged to be made to the active forks instead of this one.
-
-## ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg)Download
-[>>> Download on Google Play <<<](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)  
-[![Google Play](https://lh3.googleusercontent.com/qF9r3ZjtgG-qyHdmjecArtKiulz1gmwL_xl9R3_fzk6igSeoN0wYbJSKEX5d_fxJRwYZJpHbqcLB3i9atl-9dOfUl9an7U43TfZ9PtQ=s0)](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)
-
-And release page of the repository provides debug version of the app.  
-<img src="arts/scr02.png" alt="screenshot" width="320"/>
-<img src="arts/scr03.png" alt="screenshot" width="320"/>
 
 ## ![build](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/camera-front-variant.svg)Build
 
@@ -35,6 +21,17 @@ Install missing SDK components. Android Studio would give you the auto-fix optio
 
 ### Release-Workflow
 
+# Blocktopograph (fork con Shizuku)
+
+Fork de Blocktopograph modificado por brayanermano100-afk.
+Lee los mundos de Minecraft Bedrock desde Android/data usando Shizuku,
+e incluye editor de inventario, importar y exportar estructuras, y más.
+Requiere Shizuku activo en Android 11 o más.
+
+donación:nada
+
+
+Basado en Blocktopograph de Proto Lambda y colaboradores (AGPL-3.0).
 The official Google-Play version is managed by @mithrilmania. The Release-signing keys are not available.
 You can build it as debug build or sign it with your own keys.
 
