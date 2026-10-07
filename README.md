@@ -1,3 +1,12 @@
+# Blocktopograph (fork con Shizuku)
+
+Fork de Blocktopograph modificado por brayanermano100-afk.
+Lee los mundos de Minecraft Bedrock desde Android/data usando Shizuku,
+e incluye editor de inventario, importar y exportar estructuras, y más.
+Requiere Shizuku activo en Android 11 o más.
+
+Basado en Blocktopograph de Proto Lambda y colaboradores (AGPL-3.0).
+
 # Blocktopograph
 
 ![author](https://github.com/Templarian/MaterialDesign/blob/master/svg/account.svg)
