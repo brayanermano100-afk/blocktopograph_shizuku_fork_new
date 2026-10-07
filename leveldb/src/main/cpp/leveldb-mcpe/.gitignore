@@ -1,0 +1,21 @@
+build_config.mk
+*.a
+*.o
+*.dylib*
+*.so
+*.so.*
+*_test
+db_bench
+leveldbutil
+bin/
+
+CMakeCache*
+*.cmake
+CMakeFiles*
+
+# build
+build*/
+Win32/
+leveldb.dir/
+
+.idea
